@@ -1,4 +1,7 @@
 # V⠀⠀⠀⠀⠀⠀⠀⠀I⠀⠀⠀⠀⠀⠀⠀⠀S⠀⠀⠀⠀⠀⠀⠀⠀I⠀⠀⠀⠀⠀⠀⠀⠀O⠀⠀⠀⠀⠀⠀⠀⠀N
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=36&duration=1500&pause=1000&color=BEB0A7&center=true&vCenter=true&random=false&width=435&lines=V%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80I%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80S%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80I%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80O%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80N)](https://git.io/typing-svg)
+
 ![83e22837068195b9c85e38241f8fbf15-ezgif com-optimize](https://github.com/Zavodsk0y/Zavodsk0y/assets/81346637/c551222c-0d96-4010-8258-e59239579b6d)
 
 # 💻 Tech Stack:
